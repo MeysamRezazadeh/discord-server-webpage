@@ -1,6 +1,10 @@
 <!-- https://github.com/MeysamRezazadeh  -->
 <?php
+
+// PUT YOUR BOT TOKEN HERE
 $TOKEN = "";
+
+// PUT YOUR SERVER ID HERE
 $SERVER_ID = '';
 
 $urls = [
