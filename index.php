@@ -316,7 +316,7 @@ $widget = $data[2];
         <?php } ?>
     </div>
     <div class="footer d-grid">
-        <a href="https://github.com/MeysamRezazadeh/custom=widget-discord-bot">
+        <a href="https://github.com/MeysamRezazadeh/custom-widget-discord-bot">
             Download source code
         </a>
         <span>Create by <a href="https://github.com/MeysamRezazadeh" target="_blank">Sambyte</a></span>
