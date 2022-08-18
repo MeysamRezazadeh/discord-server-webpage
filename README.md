@@ -1,4 +1,5 @@
 # custom-widget-discord-bot
+<<<<<<< HEAD
  1. go to https://discord.com/developers/applications
  2. make a new bot
  3. in bot tab enable Privileged Gateway

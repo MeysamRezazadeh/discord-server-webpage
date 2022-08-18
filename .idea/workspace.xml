@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8711601b-3964-424f-8ba5-703735619aff" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/custom-widget-discord-bot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/custom-widget-discord-bot.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/speaker-black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/speaker-white.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/speaker.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +90,7 @@
       <workItem from="1660649654707" duration="73000" />
       <workItem from="1660649752675" duration="25899000" />
       <workItem from="1660711535130" duration="28124000" />
-      <workItem from="1660799630615" duration="504000" />
+      <workItem from="1660799630615" duration="547000" />
     </task>
     <servers />
   </component>
