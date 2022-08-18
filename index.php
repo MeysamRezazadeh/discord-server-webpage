@@ -173,7 +173,7 @@ $widget = $data[2];
             <?php foreach ($widget->channels as $channel) { ?>
                 <div class="channel">
                     <div class="d-flex">
-                        <img src="images/speaker-white.png" alt="">
+                        <img src="images/speaker.png" alt="">
                         <div class="channel-title">
                             <span><?php echo $channel->name ?></span>
                         </div>
