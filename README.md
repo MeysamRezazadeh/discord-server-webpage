@@ -7,3 +7,5 @@
  5. to find your server id go [here](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-#:~:text=On%20Android%20press%20and%20hold,name%20and%20select%20Copy%20ID.)
 
 ![alt text](https://github.com/MeysamRezazadeh/custom-widget-discord-bot/blob/main/screen-stepbros.png?raw=true)
+
+![alt text](https://github.com/MeysamRezazadeh/custom-widget-discord-bot/blob/main/screen-user.png?raw=true)
