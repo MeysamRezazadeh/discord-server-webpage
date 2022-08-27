@@ -25,6 +25,7 @@ $games = array(
     "Raft" => "https://cdn.discordapp.com/app-icons/449806905901056012/aa3b7a0ded0341cfbfd463d349e06add.webp?size=40&keep_aspect_ratio=false",
     "ELDEN RING" => "https://cdn.discordapp.com/app-icons/946609449680908348/0a0c0a0be069dddfc3f1fbede4e34bfd.webp?size=40&keep_aspect_ratio=false",
     "World of Warcraft" => "https://cdn.discordapp.com/app-icons/356875762940379136/fc92f820c44e72085dc6205e5e746850.webp?size=40&keep_aspect_ratio=false",
+    "Apex Legends" => "https://cdn.discordapp.com/app-icons/542075586886107149/7564e6f23704870d70480f172f127677.webp?size=40&keep_aspect_ratio=false",
 );
 
 foreach ($urls as $url) {
