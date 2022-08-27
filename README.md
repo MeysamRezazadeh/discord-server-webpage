@@ -3,7 +3,13 @@
  1. go to https://discord.com/developers/applications
  2. make a new bot
  3. in bot tab enable Privileged Gateway
- 4. put your bot token in index.php
- 5. to find your server id go [here](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-#:~:text=On%20Android%20press%20and%20hold,name%20and%20select%20Copy%20ID.)
+ 4. put your bot token in index.php and user.php
+ 5. go to your server setting
+ 6. click on widget tab
+ 7. enable server widget
+ 8. copy your server id in widget page
+ 9. put your server in index.php and user.php
 
 ![alt text](https://github.com/MeysamRezazadeh/custom-widget-discord-bot/blob/main/screen-stepbros.png?raw=true)
+
+![alt text](https://github.com/MeysamRezazadeh/custom-widget-discord-bot/blob/main/screen-user.png?raw=true)
