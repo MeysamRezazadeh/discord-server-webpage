@@ -50,7 +50,7 @@ $widget = $data[2];
 ?>
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" oncontextmenu="return false">
 <head>
     <meta charset="UTF-8">
     <title><?php echo $preview->name ?></title>
@@ -68,7 +68,7 @@ $widget = $data[2];
 
 </head>
 
-<body onload='convert(<?php echo $SERVER_ID ?>)' oncontextmenu="return false">
+<body onload='convert(<?php echo $SERVER_ID ?>)'>
 
 <!-- POPOUT -->
 <div id="popout"></div>
@@ -102,11 +102,6 @@ $widget = $data[2];
         <span class="rotate" style="--j:4;"></span>
     </div>
 </section>
-
-<!-- BACKGROUND STARS -->
-<div id='stars'></div>
-<div id='stars2'></div>
-<div id='stars3'></div>
 
 <div class="container">
     <!-- SEVER INFO -->
@@ -466,7 +461,7 @@ $widget = $data[2];
 
     <!-- FOOTER -->
     <div class="footer d-grid">
-        <a href="https://github.com/MeysamRezazadeh/custom-widget-discord-bot">
+        <a href="https://github.com/MeysamRezazadeh/Discord-Widget">
             Download source code
         </a>
         <span>Create by <a href="https://github.com/MeysamRezazadeh" target="_blank">Sambyte</a></span>
