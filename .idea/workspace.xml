@@ -2,34 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6148bd65-a3c2-40bf-9907-a61137d2bce9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/custom-widget-discord-bot.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/popout.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/default.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/dnd.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/game-default.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/idle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/offline.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/online.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/speaker.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery-1.9.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/moment-timezone-with-data-10-year-range.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/moment.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screen-stepbros.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screen-user.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668758166863</updated>
-      <workItem from="1668758168525" duration="2309000" />
+      <workItem from="1668758168525" duration="2433000" />
     </task>
     <servers />
   </component>

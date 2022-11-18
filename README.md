@@ -3,13 +3,13 @@ A custom discord widget for your server
 
 ## Demo
 Theme 1 ([Demo link](https://stepbros.ir/theme-1)):
-![Theme 1](https://github.com/MeysamRezazadeh/Discord-Widget/blob/main/demo/01.jpg?raw=true)
+![Theme 1](https://github.com/MeysamRezazadeh/Discord-Widget/blob/main/demo/01.png?raw=true)
 Theme 2 ([Demo link](https://stepbros.ir/theme-2)):
-![Theme 2](https://github.com/MeysamRezazadeh/Discord-Widget/blob/main/demo/02.jpg?raw=true)
+![Theme 2](https://github.com/MeysamRezazadeh/Discord-Widget/blob/main/demo/02.png?raw=true)
 Theme 3 ([Demo link](https://stepbros.ir/theme-3)):
-![Theme 3](https://github.com/MeysamRezazadeh/Discord-Widget/blob/main/demo/03.jpg?raw=true)
+![Theme 3](https://github.com/MeysamRezazadeh/Discord-Widget/blob/main/demo/03.png?raw=true)
 Theme 4 ([Demo link](https://stepbros.ir/theme-4)):
-![Theme 4](https://github.com/MeysamRezazadeh/Discord-Widget/blob/main/demo/03.jpg?raw=true)
+![Theme 4](https://github.com/MeysamRezazadeh/Discord-Widget/blob/main/demo/03.png?raw=true)
 
 ## Features
 * shows online and offline members
