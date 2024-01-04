@@ -6,11 +6,11 @@ import offlineImage from './../images/offline.png';
 import idleImage from './../images/idle.png';
 import dndImage from './../images/dnd.png';
 
-const MemberPopup = ({ memberId, onClose }) => {
+const MemberPopup = ({ serverId, memberId, onClose }) => {
     const [member, setMember] = useState(null);
 
     const fetchData = () => {
-        axios.get(`http://localhost:3001/api/member/${memberId}`)
+        axios.get(`https://stepbros.ir/api/member/${serverId}/${memberId}`)
             .then(response => {
                 setMember(response.data);
                 console.log(response.data);
@@ -23,7 +23,7 @@ const MemberPopup = ({ memberId, onClose }) => {
     // Fetch data when the component mounts
     useEffect(() => {
         fetchData();
-    }, [memberId]);
+    }, []);
 
     const closePopup = () => {
         onClose(); // Assuming onClose is a prop function passed from the parent to handle closing
