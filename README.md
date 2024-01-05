@@ -60,4 +60,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <br /><br />
 
 🤝 Feel free to contribute, report issues, or make suggestions! Your input is highly valued.
+
 🌟 If you find this project helpful, please consider giving it a star.
