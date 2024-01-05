@@ -52,3 +52,12 @@ Deploy the app as needed.
 Visit https://stepbros.ir to see a demo.
 
 To add the bot to your server, use the following link: [Add Bot to Server](https://discord.com/api/oauth2/authorize?client_id=1191658680018546698&permissions=2199023782912&scope=bot). After adding the bot, send the command `$create` in your server to get a unique link for your server, e.g., https://stepbros.ir?id=your_server_id_here.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+<br /><br />
+
+🤝 Feel free to contribute, report issues, or make suggestions! Your input is highly valued.
+🌟 If you find this project helpful, please consider giving it a star.
