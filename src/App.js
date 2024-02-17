@@ -9,6 +9,7 @@ import speakerImage from './images/speaker.svg';
 import MemberPopup from './components/MemberPopup';
 import Popup from 'reactjs-popup';
 import 'reactjs-popup/dist/index.css';
+import Switch from "react-switch";
 
 const App = () => {
   const [isLoading, setIsLoading] = useState(true);
@@ -56,7 +57,7 @@ const App = () => {
       case 'offline':
         return '2px solid grey';
       default:
-        return '2px solid grey'; // Default to grey for unknown status
+        return '2px solid grey';
     }
   };
   const getStatusImage = (status) => {
@@ -70,6 +71,12 @@ const App = () => {
       default:
         return offlineImage;
     }
+  };
+
+  const [starsVisible, setStarsVisible] = useState(true);
+
+  const toggleStarsVisibility = () => {
+    setStarsVisible(!starsVisible);
   };
 
   return (
@@ -96,13 +103,19 @@ const App = () => {
       </div>
     </section>)}
 
-      <div id='stars'></div>
-      <div id='stars2'></div>
-      <div id='stars3'></div>
+    {starsVisible && (
+        <div>
+          <div id='stars'></div>
+          <div id='stars2'></div>
+          <div id='stars3'></div>
+        </div>
+      )}
       {!isLoading && (
       
-      
+    
+  
       <div className='container'>
+        <Switch onChange={toggleStarsVisibility} checked={starsVisible} />
         <div className="row d-flex">
           <div className="server">
             <img src={guild.icon} alt="" className="logo" />
