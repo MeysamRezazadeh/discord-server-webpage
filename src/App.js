@@ -232,7 +232,7 @@ const App = () => {
             <div className='card d-flex'>
               <Popup trigger={
                 <button id="btn">
-                  <div>
+                  <div style={{ position: 'relative' }}>
                     <img className="img-profile" src={member.avatar} alt={member.name} />
                     <img className="img-status" src={getStatusImage(member.status)} alt={member.status}></img>
                   </div>
